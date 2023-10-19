@@ -20,4 +20,20 @@ The growth of supermarkets in most populated cities are increasing and market co
 - COGS: Cost of goods sold
 - Gross margin percentage: Gross margin percentage
 - Gross income: Gross income
-- 
+- Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
+
+### Libraries used
+
+- numpy #linear algebra
+- pandas #data processing, CSV file I/O (e.g. pd.read_csv)
+- seaborn & matplotlib #data plotting
+
+### Purpose
+
+The purpose of this project is to analyze historical supermarket sales data, extract insights, optimize business operations, evaluate branch performance, apply predictive analytics, and showcase proficiency in Python and data-related skills for potential employers or collaborators.
+
+### Authors
+
+[![Follow on Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/aaryanair13/)
+
+[![Follow on Linkedin](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/aarya1312)
